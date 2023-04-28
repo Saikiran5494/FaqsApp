@@ -1,0 +1,29 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 90%;
+  padding: 10px;
+}
+.heading {
+  color: #cb8805;
+  font-size: 30px;
+}
+.unordered-list {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 30px;
+}
